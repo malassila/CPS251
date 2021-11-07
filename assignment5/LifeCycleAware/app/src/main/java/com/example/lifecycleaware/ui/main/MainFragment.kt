@@ -40,7 +40,7 @@ class MainFragment : Fragment() {
         binding.message.append(demoObserver.onPause())
         binding.message.append(demoObserver.onStop())
         binding.message.append(demoObserver.onDestroy())
-
+        binding.message.append("*******\n")
     }
 
 
