@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="mainfragment">MainFragment</string>
+    <string name="picture">picture</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="picture1">TODO</string>
+    <string name="activity1">TODO</string>
+    <string name="activity2">TODO</string>
+    <string name="action_settings">test</string>
+    <string name="guy">android_dude</string>
+    <string name="details">item details go here</string>
+    <string name="chapter">Chapter name goes here</string>
+</resources>
