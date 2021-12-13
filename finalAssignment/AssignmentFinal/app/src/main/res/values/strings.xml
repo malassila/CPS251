@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AssignmentFinal</string>
+    <string name="name">Enter Contact Name</string>
+    <string name="Number">Enter Phone Number</string>
+    <string name="add">Add</string>
+    <string name="find">Find</string>
+    <string name="asc">ASC</string>
+    <string name="desc">DESC</string>
+    <string name="image" />
+</resources>
